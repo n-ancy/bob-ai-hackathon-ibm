@@ -1,0 +1,23 @@
+{
+  "case_id": "CASE-DEMO-001",
+  "analyst_note": "Synthetic intelligence bundle for testing.",
+  "known_entities": [
+    {
+      "id": "ACC-COLLECT-900",
+      "type": "bank_account"
+    },
+    {
+      "id": "DEV-7788",
+      "type": "device"
+    },
+    {
+      "id": "9876500101",
+      "type": "phone"
+    }
+  ],
+  "hypotheses": [
+    "Possible multi-stage mule/collection flow",
+    "Possible shared-device relationship",
+    "Possible common caller relationship"
+  ]
+}

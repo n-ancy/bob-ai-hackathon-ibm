@@ -1,0 +1,15 @@
+team_name: "Cyber Fraud Network Analyzer (CFNA)"
+project_name: "CYBER FRAUD NETWORK ANALYZER (CFNA)"
+track: "IBM Bobathon AI Cybersecurity Track"
+repository_url: "https://github.com/drijesh-ppatel/bob-ai-hackathon-submission-template"
+ibm_technology_used:
+  - "IBM watsonx.ai"
+  - "IBM Granite 13B Instruct Model"
+  - "IBM Cloud IAM Authentication"
+core_stack:
+  - "FastAPI"
+  - "React + Vite + Tailwind CSS"
+  - "Neo4j / NetworkX Dual Engine"
+  - "Vis.js Canvas Graph Visualizer"
+  - "ReportLab PDF Engine"
+contact_email: "investigation@cfna-cyber.internal"

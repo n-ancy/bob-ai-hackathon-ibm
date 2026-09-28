@@ -1,0 +1,12 @@
+INTELLIGENCE NOTE - CASE CFNA-001
+Date: 2026-09-01
+Investigator: Insp. V. Sharma (Cyber Crime Cell)
+
+Field Report:
+Victim Rajesh Kumar reported un-authorized transaction TXN-1001 of Rs. 50,000 transferred from account ACC-VICTIM-01 to ACC-MULE-101 via UPI ID target.mule@upi.
+Suspect phone number +919811122201 was seen active on Device DEV-HUB-X and DEV-MULE-A1.
+Device DEV-HUB-X IP 10.0.4.12 was also recorded accessing account ACC-INT-201 and ACC-INT-202.
+Person Vikram Singh (DOB 1988-04-12) is registered owner of Phone +919822233301 and SIM IMSI-40445091823905.
+Person Rajesh Kumar reported receiving fraudulent call from +919876543210 claiming to be bank executive.
+Account ACC-HUB-301 received multiple high-value transfers from intermediate accounts ACC-INT-201 and ACC-INT-202 within 45 minutes of victim complaints.
+Final crypto conversion observed via Account ACC-FINAL-401 using IP 172.16.0.8.

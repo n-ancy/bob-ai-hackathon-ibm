@@ -1,0 +1,22 @@
+CYBER FRAUD INTELLIGENCE NOTE - MOCK DATA
+Case Reference: CASE-DEMO-001
+
+Device observations:
+- Device ID: DEV-7788
+  IMEI: 350000000000111
+  Observed phone numbers: 9876500011, 9876500033
+  Associated accounts: ACC-MULE-101, ACC-MULE-103
+  Last observed: 2026-09-24 10:02:15
+
+- Device ID: DEV-8899
+  IMEI: 350000000000222
+  Observed phone numbers: 9876500022
+  Associated accounts: ACC-MULE-102
+  Last observed: 2026-09-24 09:59:02
+
+SIM observations:
+- 9876500011 -> SIM-SYN-101 -> ACC-MULE-101
+- 9876500033 -> SIM-SYN-103 -> ACC-MULE-103
+- 9876500022 -> SIM-SYN-102 -> ACC-MULE-102
+
+All identifiers and observations are synthetic.

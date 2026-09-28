@@ -1,0 +1,19 @@
+MOCK COMPLAINT BUNDLE
+CASE: CASE-DEMO-001
+
+COMP-001 | Victim A | 24-09-2026
+I received a call from 9876500101. The caller claimed to be from bank support. Shortly afterwards, I noticed INR 45,000 transferred to ACC-MULE-101. Transaction TX001.
+
+COMP-002 | Victim B | 24-09-2026
+A caller contacted me about updating KYC. I later noticed INR 38,000 transferred to ACC-MULE-101. Transaction TX002.
+
+COMP-003 | Victim C | 24-09-2026
+I was contacted by an unknown caller and later lost INR 52,000. The destination account was ACC-MULE-102. Transaction TX003.
+
+COMP-004 | Victim D | 24-09-2026
+I was contacted before a transfer of INR 41,000. The destination account was ACC-MULE-103. Transaction TX004.
+
+COMP-005 | Victim E | 24-09-2026
+A suspicious caller contacted me and I later noticed INR 29,000 transferred to ACC-MULE-102. Transaction TX010.
+
+This is fictional test material for a software demonstration.

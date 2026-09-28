@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+pandas
+networkx
+reportlab
+neo4j
+python-multipart

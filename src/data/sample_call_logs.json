@@ -1,0 +1,46 @@
+[
+  {
+    "call_id": "CALL-5001",
+    "timestamp": "2026-09-01T09:45:10",
+    "caller_phone": "+919876543210",
+    "receiver_phone": "+919811122201",
+    "duration_seconds": 184,
+    "call_type": "VOICE",
+    "sim_imsi": "IMSI-40445091823901",
+    "imei": "IMEI-8649100492101",
+    "location": "Mumbai Tower 44"
+  },
+  {
+    "call_id": "CALL-5002",
+    "timestamp": "2026-09-01T10:05:00",
+    "caller_phone": "+919811122201",
+    "receiver_phone": "+919822233301",
+    "duration_seconds": 45,
+    "call_type": "VOICE",
+    "sim_imsi": "IMSI-40445091823901",
+    "imei": "IMEI-8649100492101",
+    "location": "Jaipur Tower 12"
+  },
+  {
+    "call_id": "CALL-5003",
+    "timestamp": "2026-09-01T10:30:15",
+    "caller_phone": "+919822233301",
+    "receiver_phone": "+919833344401",
+    "duration_seconds": 312,
+    "call_type": "VOICE",
+    "sim_imsi": "IMSI-40445091823905",
+    "imei": "IMEI-8649100492109",
+    "location": "Ahmedabad Sector 9"
+  },
+  {
+    "call_id": "CALL-5004",
+    "timestamp": "2026-09-01T10:55:00",
+    "caller_phone": "+919833344401",
+    "receiver_phone": "+919844455501",
+    "duration_seconds": 120,
+    "call_type": "ENCRYPTED_VOIP",
+    "sim_imsi": "IMSI-40445091823999",
+    "imei": "IMEI-8649100492999",
+    "location": "Surat West"
+  }
+]
