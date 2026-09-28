@@ -10,9 +10,9 @@
 
 ## 🎯 Problem Statement
 
-> **In 2–3 sentences:** Cybercrime and UPI fraud investigations involve fragmented intelligence across bank statements, call logs, SIM records, and police reports. Investigators manually cross-reference hundreds of spreadsheets to trace money movement, which is slow, error-prone, and allows fraud networks to move funds before detection.
+> **In 2–3 sentences:** Cybercrime and UPI fraud investigations involve fragmented intelligence across bank statements, call logs, SIM records, and police reports. Investigators manually cross-reference hundreds of spreadsheets to trace money movement, which is slow, error-prone, and allows fraud networks to move funds before detection. 
 
-CFNA addresses the critical pain point faced by **Cyber Crime Cells**, **Digital Forensics Analysts**, and **Bank Anti-Fraud Units**.
+CFNA addresses the critical pain point faced by **Cyber Crime Cells**, **Digital Forensics Analysts**, and **Bank Anti-Fraud Units**. It provides a graph based view which helps better understand the connection between the data.
 
 ---
 
